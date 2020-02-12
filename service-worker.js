@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/telstra_metric_buster/precache-manifest.225bcc73a8927102df84f9708d33bc80.js"
+  "/telstra_metric_buster/precache-manifest.90fe3de827573cbaa116cacc8f7400f1.js"
 );
 
 self.addEventListener('message', (event) => {

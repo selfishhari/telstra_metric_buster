@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/telstra_metric_buster/static/css/main.67ea601c.chunk.css",
-    "main.js": "/telstra_metric_buster/static/js/main.e3ebbf49.chunk.js",
-    "main.js.map": "/telstra_metric_buster/static/js/main.e3ebbf49.chunk.js.map",
+    "main.js": "/telstra_metric_buster/static/js/main.d4dc59ae.chunk.js",
+    "main.js.map": "/telstra_metric_buster/static/js/main.d4dc59ae.chunk.js.map",
     "runtime-main.js": "/telstra_metric_buster/static/js/runtime-main.b6a3ee77.js",
     "runtime-main.js.map": "/telstra_metric_buster/static/js/runtime-main.b6a3ee77.js.map",
-    "static/js/2.ad199e23.chunk.js": "/telstra_metric_buster/static/js/2.ad199e23.chunk.js",
-    "static/js/2.ad199e23.chunk.js.map": "/telstra_metric_buster/static/js/2.ad199e23.chunk.js.map",
+    "static/js/2.a991c034.chunk.js": "/telstra_metric_buster/static/js/2.a991c034.chunk.js",
+    "static/js/2.a991c034.chunk.js.map": "/telstra_metric_buster/static/js/2.a991c034.chunk.js.map",
     "index.html": "/telstra_metric_buster/index.html",
-    "precache-manifest.225bcc73a8927102df84f9708d33bc80.js": "/telstra_metric_buster/precache-manifest.225bcc73a8927102df84f9708d33bc80.js",
+    "precache-manifest.90fe3de827573cbaa116cacc8f7400f1.js": "/telstra_metric_buster/precache-manifest.90fe3de827573cbaa116cacc8f7400f1.js",
     "service-worker.js": "/telstra_metric_buster/service-worker.js",
     "static/css/main.67ea601c.chunk.css.map": "/telstra_metric_buster/static/css/main.67ea601c.chunk.css.map",
-    "static/js/2.ad199e23.chunk.js.LICENSE.txt": "/telstra_metric_buster/static/js/2.ad199e23.chunk.js.LICENSE.txt",
+    "static/js/2.a991c034.chunk.js.LICENSE.txt": "/telstra_metric_buster/static/js/2.a991c034.chunk.js.LICENSE.txt",
+    "static/media/Telstra_logo.svg": "/telstra_metric_buster/static/media/Telstra_logo.2311761d.svg",
     "static/media/search.svg": "/telstra_metric_buster/static/media/search.96e68736.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b6a3ee77.js",
-    "static/js/2.ad199e23.chunk.js",
+    "static/js/2.a991c034.chunk.js",
     "static/css/main.67ea601c.chunk.css",
-    "static/js/main.e3ebbf49.chunk.js"
+    "static/js/main.d4dc59ae.chunk.js"
   ]
 }
